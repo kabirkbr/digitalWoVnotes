@@ -1,0 +1,23 @@
+---
+layout: post
+title: a digital (and scalable) world of views
+---
+
+We subscribe to the perspective to the mind as an ecology of interacting parts, components [^1], agents [^3] or thoughts [^2]. The same model applies at the level of society as well as individual human, including other social sub-systems as intermediate levels. Whatever components of the system are, they embody certain perspectives to the environment that surrounds them - the **worldviews**. As 'information society' enables embodiment of images and worldviews of humans and their groups with different degree of technology participation, we may see an explosion of diversity of interacting identities - digital, physical, 'natural', 'artificial' and otherwise - within the ecology of the global society. This ecology, rather than command-control hierarchies, will constitute the identity of the society - the Global Brain.
+
+Technology in general and information technology in particular, despite the immense possibilities it brings, is 'only' an enabler of different embodiments of the worldviews and amplifier of their interactions [^4]. Therefore, while the developments of a 'digital' World of Views and the way it will affect our lives will be greatly enhanced and enabled by information technologies, the direction of the disruption will be determined by the 'modes of the social inscription' of these technologies [^6] as embodiments of the worldviews. For the philosophical / psychoanalytical speculation of the possible modes of social inscription, see [^5]. A 'real life' example of such possibilities could best be seen in the 'case' of National Security Agency vs. E. Snowden [^7] which illustrates a collision of two modes of inscription of the same technology (Internet) - one seeking total surveillance and control; another - freedom and diversity of expression.
+
+The case of 'Snowden vs. NSA', as well as 'U.S. vs WikiLeaks', also illustrates another important aspect of the future global society - the greatly increased capacities of individuals. A few years ago it would be unimaginable how one person or small group of them could 'throw down the gauntlet' to a powerful state agency. These examples illustrate the dissolution of the perceived or maybe preferred hierarchical order of the global society, sometimes referred to as 'global governance' [^8] or 'post World War II' [^9] structures.
+
+The prevailing solution to the perceived risk of 'fraying global governance structures' usually amounts to 'building better structures' or 'strengthening democratic institutions' (the emphasis depends on the specific worldview of the advocate of the solution) [^9]. What we propose with the image of A World of Views (digital or not-so-digital) is the shift of emphasis from the structures and institutions to the very process of creation, adaptation and dissolution of social sub-systems at all the scales of the global society as embodiments of the worldviews. Furthermore, we propound the distributed nature of the process - meaning the absence of central body or 'trusted party' governing it. It is difficult to imagine such a system, which we call a 'distributed social governance', but the latest developments in the Internet technologies, specifically the ones originating from the cypherpunk movement and the community behind the cryptography mailing list [^10] provide important insights and examples of such a system (see next slide).
+
+[^1]: Bateson, Gregory. Mind and Nature: A Necessary Unity. Hampton Press, Incorporated, 2002.
+[^2]: Dennett, Daniel C. Consciousness Explained. Penguin Adult, 1993.
+[^3]: Minsky, Marvin. Society Of Mind. Simon & Schuster, 1988.
+[^4]: Weinbaum, David, and Viktoras Veitas. [“Synthetic Cognitive Development: Where Intelligence Comes from.”](http://arxiv.org/abs/1411.0159) ArXiv Preprint arXiv:1411.0159, 2014.
+[^5]: Zizek, Slavoj. “What Can Psychoanalysis Tell Us about Cyberspace?” The Psychoanalytic Review 91, no. 6 (2004): 801–30.
+[^6]: Zizek, Slavoj. Less Than Nothing: Hegel And The Shadow Of Dialectical Materialism. Reprint edition. London, U.K.: Verso, 2013.
+[^7]: Poitras, Laura. [Citizenfour](http://www.imdb.com/title/tt4044364/?ref_=fn_al_tt_1). Documentary, 2015.
+[^8]: Beauchamp, Zack. [“The Quiet Global Crisis That Scares the State Department.”](http://www.vox.com/2015/4/29/8514239/qddr-2015) Vox. Accessed May 11, 2015.
+[^9]: U.S. Department of State, and U.S. Agency for International Development. [Enduring Leadership in A Dynamic World. Quadrennial Diplomacy and Development Review](www.usaid.gov/sites/default/files/documents/1870/QDDR2015.pdf), 2015.
+[^10]: [“Cypherpunk.”](http://en.wikipedia.org/w/index.php?title=Cypherpunk&oldid=661625856) Wikipedia, the Free Encyclopedia, May 9, 2015.
