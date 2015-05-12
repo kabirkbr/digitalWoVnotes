@@ -3,7 +3,7 @@ layout: post
 title: is the universe a friendly place?
 ---
 
-This quote of Albert Eistein is mentioned in many places, but the most serious (and probably the first for me) was the mention of it in Robert Dilts' book "Strategies of Genius Volume Two: Albert Einstein". I give the full quote of the page in the book:
+This quote of Albert Einstein is mentioned in many places, but the most serious (and probably the first for me) was the mention of it in Robert Dilts' book "Strategies of Genius Volume Two: Albert Einstein". I give the full quote of the page in the book:
 
 > There is, in fact, an anecdote about Einstein that addresses some of these questions. It describes how Einstein was once approached by a reporter during an interview and asked something to the effect of, "Dr. Einstein, you are recognized around the world as one of the most bone fide geniuses of our century, maybe of human history. Your scope of thinking has covered the workings of the universe from the tiny atom to the cosmos. You have seen your discoveries both evolve and enrich, and also mutilate and destroy the human life you so highly value. What, in your opinion is the most important question facing humanity today?"
 
