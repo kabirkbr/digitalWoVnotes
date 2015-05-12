@@ -11,6 +11,6 @@ While it is much more to the 'classical' definition of metastability that this s
 
 {% include image.html url="http://upload.wikimedia.org/wikipedia/commons/a/a0/Meta-stability.svg" description="A metastable state of weaker bond (1), a transitional 'saddle' configuration (2) and a stable state of stronger bond (3). Adapted from Wikipedia, courtesy Georg Wiora." %}
 
-A classical example of a metastable state of the system is water at &deg;C. If water is still it stays in liquid state (even below the temperature of 0 &deg;C), but if it is perturbed by vibration, it falls into the state of ice.
+A classical example of a metastable state of the system is water at 0 &deg;C. If water is still it stays in liquid state (even below the temperature of 0 &deg;C), but if it is perturbed by vibration, it falls into the state of ice.
 
 [^1]: Wikipedia contributors, ["Metastability"](http://en.wikipedia.org/wiki/Metastability), *Wikipedia, The Free Encyclopaedia* (accessed May 5, 2015).
