@@ -136,11 +136,20 @@
 
 {% if site.theme.twitter %}
 <li>
-	<a href="https://twitter.com/{{ site.theme.twitter }}" title="{{ site.theme.str_follow_on }} Twitter">
-		<i class="fa fa-fw fa-twitter"></i>
+	<a href="https://twitter.com/{{ site.theme.twitter }}" title="Follow Viktoras on Twitter">
+		<i class="fa fa-fw fa-twitter black"></i>
 	</a>
 </li>
 {% endif %}
+
+{% if site.theme.twitter2 %}
+<li>
+	<a href="https://twitter.com/{{ site.theme.twitter2 }}" title=" Follow Weaver on Twitter">
+		<i class="fa fa-fw fa-twitter purple"></i>
+	</a>
+</li>
+{% endif %}
+
 
 {% if site.theme.wordpress %}
 <li>
