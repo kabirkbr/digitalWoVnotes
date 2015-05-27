@@ -1,5 +1,5 @@
 ---
 layout: post
-title: distributed social governances
+title: distributed social governance
 ---
 
