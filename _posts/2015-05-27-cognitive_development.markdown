@@ -1,11 +1,11 @@
 ---
 layout: post
-title: cognitive development explained (a little bit)
+title: cognitive development explained (just a little bit)
 ---
 
 The theory of cognitive development was developed largely in late sixties-early seventies in the context of child development[^1],[^2].
 
-Later in eighties expanded to cover the whole life of an individual [^3].
+Later in eighties it was expanded to cover the whole lifetime of an individual [^3].
 
 We generalize the framework to explain the development of living cognitive systems in general (i.e. humans, societies, artificial intelligences ...)[^4].
 
