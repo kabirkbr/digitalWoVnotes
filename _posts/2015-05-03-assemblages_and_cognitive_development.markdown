@@ -16,7 +16,7 @@ The relation of assemblage theory and cognitive development primarily lies in th
 The theory of cognitive development posits identifiable patterns of human cognitive development which are being described as developmental *stages* [^6] or *truces* [^7]. Cognitive development theories generally describe recursive subject and object relationships when the subject of previous stage becomes an object in the next stage,
 sometimes referred to as an ‘evolution of meaning’ [^8]. The process is not linear, but rather is manifested through integration and disintegration sequences of cognitive structures.
 
-Furthermore, assemblage theory builds on the distinction of exterior / interior relations (explained in further slides and an [accompanying comment]({% post_url 2015-05-02-interiority_and_exteriority %})) which connect to the distinction of object / subject in cognitive development theory.
+Furthermore, assemblage theory builds on the distinction of exterior / interior relations (explained in further slides and an [accompanying comment]({{site.baseurl}}/2015/05/02/interiority_and_exteriority.html) which connect to the distinction of object / subject in cognitive development theory.
 
 
 [^1]: DeLanda, Manuel. A New Philosophy of Society: Assemblage Theory and Social Complexity. A&C Black, 2006.
